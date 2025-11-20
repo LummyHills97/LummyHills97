@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Olumide Akinnuli**
+# 👋 Hi, I'm **Olumide Oluwaseun Akinnuli**
 
 I'm a **Software Engineer** specializing in mobile application development, with a focus on building reliable, intuitive, and scalable products. I work primarily with Flutter and Dart, and I care deeply about writing clean, maintainable code that supports long-term growth.
 
