@@ -12,7 +12,6 @@ I’m committed to continuous learning, improving my craft, and contributing to 
 
 * **LinkedIn:** Olumide Akinnuli
 * **X (Twitter):** @LummyHills
-* **Behance:** Olumide Akinnuli
 * **GitHub:** LummyHills97
 
 ---
